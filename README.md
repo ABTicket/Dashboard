@@ -122,7 +122,14 @@ Notes(注解) 相关信息，解释说明和对其他资料的引用等等。一
 
 ### Requirement specification
 
+#### 注：没找到虚线箭头，inculde皆是由左指向右，extend皆是由右指向左
 
+#### 用户用例
+
+![image](https://github.com/ABTicket/Initial-design-and-planning/blob/master/image/User%20use%20case.png)
+
+#### 总体用例
+![image](https://github.com/ABTicket/Initial-design-and-planning/blob/master/image/use%20case.png)
 
 ## 生产规范与指南
 
