@@ -130,10 +130,16 @@ Notes(注解) 相关信息，解释说明和对其他资料的引用等等。一
 ![image](https://github.com/ABTicket/Initial-design-and-planning/blob/master/image/use%20case.png)
  
 #### Domain model
-
+ 
+![image](https://github.com/ABTicket/Initial-design-and-planning/blob/master/image/domain%20model.png) 
+ 
 ## 7.Design
 
-### DateBase Design
+### 7.2 DateBase Design
+
+#### ER图：
+
+![image](https://github.com/ABTicket/Initial-design-and-planning/blob/master/image/ER%20model.png)
 
 ## 8.生产规范与指南
 
