@@ -1,5 +1,5 @@
 # DashBoard
-## About
+## 1.About
 网络在线电影购票轻量级系统
 
 主要功能：
@@ -20,7 +20,7 @@
 * 详细设计：确认建立数据库，实现个人中心
 * 编码实践：学习前端框架与后端接口
 
-## Team Profile
+## 2.Team Profile
 ##### 团队名称 ：Aurora Borealis（北极光）
 ##### 团队目标 ：完成轻量级在线电影购票系统开发
 ##### 团队成员 ：廖泽林 廖泽祥 刘洋旗 阿布都乃比江 岑灼良 陈炫佐
@@ -46,7 +46,7 @@
 **陈炫佐**
 - 前端工程师：负责前端框架细节部分，协调前端与后端对接，相关客户端界面开发工作与测试工作
 
-## investigation
+## 3.investigation
 ### 背景
 现在中国大部分的家庭都喜欢在家里置办属于自己风格的家庭影院。但是，仍然有很人喜欢到电影院去看电影。因为家里的气氛毕竟不如影院好。所以，现代家庭影院的出现并不会让电影院没有生路。
 
@@ -80,7 +80,7 @@
 ### 产品定位
 我们预计制作完成一款轻量级的电影购票软件，不附加过多的功能，导致使用复杂、上手困难，拥有简单、美观、方便、易上手、需要内存小、运行快速的特点
 
-## Vision
+## 4.Vision
 ### 目标
 - 通过互联网实现在线电影购票
 - 建立后端数据库，存储用户信息，搭建个人中心
@@ -97,7 +97,7 @@
 - 淘票票
 - 美团等
 
-## Product Backlog
+## 5.Product Backlog
 
 ### 怎样编写Backlog
 产品backlog是Scrum的核心，也是一切的起源。从根本上说，它就是一个需求或故事或特征等组成的列表，按照重要性的级别进行了排序。它里面包含的是客户想要的东西，并用客户的术语加以描述。
@@ -120,9 +120,7 @@ Notes(注解) 相关信息，解释说明和对其他资料的引用等等。一
 
 ![image](https://github.com/ABTicket/Initial-design-and-planning/blob/master/image/product%20backlog.png)
 
-### Requirement specification
-
-#### 注：没找到虚线箭头，inculde皆是由左指向右，extend皆是由右指向左
+## 6.Requirement specification
 
 #### 用户用例
 
@@ -130,8 +128,14 @@ Notes(注解) 相关信息，解释说明和对其他资料的引用等等。一
 
 #### 总体用例
 ![image](https://github.com/ABTicket/Initial-design-and-planning/blob/master/image/use%20case.png)
+ 
+#### Domain model
 
-## 生产规范与指南
+## 7.Design
+
+### DateBase Design
+
+## 8.生产规范与指南
 
 ### 前端规范
 #### 文件/资源命名
