@@ -7,3 +7,6 @@
 - [Requirement](./doc/Requirement_specification.md)
 - [Design](./doc/design.md)
 - [guide](./doc/guide.md)
+- [Meet Recording](./doc/X1-meet_recording.md)
+- [Tech&Work_report](./doc/X2-Tech&Work_report.md)
+- [Modeling Exercise](./doc/XX-modeling_exercise.md)
