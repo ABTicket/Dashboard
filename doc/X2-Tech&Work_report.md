@@ -1,7 +1,8 @@
 # Tech/Work Reprot
 
-[15331219]()
-
+[15331219](https://github.com/lqAsuna/Vue_learning)
+Vue框架学习
+ 
 [15331192]()
 
 [15331193]()
