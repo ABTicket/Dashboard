@@ -64,4 +64,8 @@
 #### state model
 
 ![image](https://github.com/ABTicket/Initial-design-and-planning/blob/master/image/state%20model.png)
+
+#### system sequence diagram
+**15331219 lyq:**
+![image](https://github.com/ABTicket/Dashboard/blob/master/image/sequence_model_15331219.png)
  
