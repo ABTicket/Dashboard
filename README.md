@@ -15,7 +15,7 @@
     - [7.2 Database Design](./doc/database_design.md)
     - [7.3 API设计](./doc/API_design.md)
     - [7.4.1 Supplementary Requirements](./doc/Supplementary_Requirements.md)
-    - [7.4.2 Software Architecture Document](./dov/Software_Architecture_Document.md)
+    - [7.4.2 Software Architecture Document](./doc/Software_Architecture_Document.md)
     - [7.5 Use Case Design](./doc/use_case_design.md)
 - [8.guide](./doc/guide.md)
     - [8.1 Code Specification](./doc/Code_specification.md)
