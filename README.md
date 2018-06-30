@@ -4,20 +4,20 @@
 - [3.Investigation](./doc/investigation.md)
 - [4.Vision](./doc/Vision.md)
 - [5.Product Backlog](./doc/Product_Backlog.md)
-- [6.Requirement](./doc/Requirement_specification.md)
+- 6.Requirement
     - [6.1 Usecase Diagram](./doc/usecase_diagram.md)
     - [6.2 Use Cases](./doc/use_cases.md)
     - [6.3 Domain Model](./doc/domain_model.md)
     - [6.4 State Model](./doc/state_model.md)
     - [6.5 System Sequence Diagram](./doc/system_sequence_diagram.md)
-- [7.Design](./doc/design.md)
+- 7.Design
     - [7.1 UI Design]()
     - [7.2 Database Design](./doc/database_design.md)
     - [7.3 API设计](./doc/API_design.md)
     - [7.4.1 Supplementary Requirements](./doc/Supplementary_Requirements.md)
     - [7.4.2 Software Architecture Document](./doc/Software_Architecture_Document.md)
     - [7.5 Use Case Design](./doc/use_case_design.md)
-- [8.guide](./doc/guide.md)
+- 8.guide
     - [8.1 Code Specification](./doc/Code_specification.md)
     - [8.2 Rest API](./doc/Rest_API.md)
     - [8.3 ECB](./doc/ECB.md)
