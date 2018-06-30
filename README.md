@@ -25,3 +25,10 @@
 - [Meet Recording](./doc/X1-meet_recording.md)
 - [Tech&Work Report](./doc/X2-Tech&Work_report.md)
 - [Modeling Exercise](./doc/XX-modeling_exercise.md)
+- Final Report
+    - [lyq 15331219](./doc/15331219_final_report.md)
+    - [lzl 15331192](./doc/15331192_final_report.md)
+    - [lzx 15331193](./doc/15331193_final_report.md)
+    - [abdnbj 15331001](./doc/15331001_final_report.md)
+    - [czl 15331011](./doc/15331011_final_report.md)
+    - [cxz 15331039](./doc/15331039_final_report.md)
