@@ -11,9 +11,8 @@
 ## 自认为最得意/或有价值/或有苦劳的工作清单，含简短说明（一句话）
 万事开头难，学习了开发框架后就轻松许多。
 ## 个人的技术类、项目管理类博客清单（只需要名称与 url ）
-https://github.com/chenhtso/System-Analysis-and-Design
 
-https://blog.csdn.net/chenhtso/article/details/80624335
+https://github.com/chenhtso/System-Analysis-and-Design/blob/master/homework3
 
 
   [1]: https://raw.githubusercontent.com/chenhtso/System-Analysis-and-Design/master/1.png
