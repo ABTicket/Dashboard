@@ -4,10 +4,26 @@
 - 本次项目是团队作业，在项目的完成过程中，感谢各个队友的合作配合和提供给我的极大帮助，使我们顺利地完成项目的开发。
 
 ## PSP 2.1 统计表
-
+|PSP 2.1|Time Spent(h)|
+|-------|-------|
+|**Planning**||
+| - Estimate | 1 |
+|**Development**||
+| - analysis| 10 |
+| - Design Spec| 15 |
+| - Design Review| 10 |
+| - Coding Standard| 1 |
+| - Design| 15 |
+| - Coding| 30 |
+| - Code review| 8 |
+| - Test| 10 |
+|**Reporting**||
+| - Test Report| 2 |
+| - Size Measurement| 1 |
+| - Postmortem & Process Improvement Plan| 1 |
 
 ## 个人分支的 GIT 统计报告（不需要解释原因）- 仅需要提交截图
-
+![image](https://github.com/ABTicket/Dashboard/blob/master/image/lzx_git_contribution.png)
 
 ## 自认为最得意/或有价值/或有苦劳的工作清单，含简短说明（一句话）
 
