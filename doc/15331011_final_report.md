@@ -8,6 +8,23 @@ data: 2018/06/30
 软件架构相关知识，包括基本介绍、架构内层间的关系、架构的作用等，最后是详细的一些架构和应用程序框架.
 
 •PSP 2.1 统计表
+|PSP 2.1|Time Spent(h)|
+|-------|-------|
+|**Planning**|5|
+| - Estimate | 5 |
+|**Development**|85|
+| - analysis| 10 |
+| - Design Spec| 15 |
+| - Design Review| 5 |
+| - Coding Standard| 5 |
+| - Design| 15 |
+| - Coding| 25 |
+| - Code review| 5 |
+| - Test| 5 |
+|**Reporting**|10|
+| - Test Report| 5 |
+| - Size Measurement| 2 |
+| - Postmortem & Process Improvement Plan| 3 |
 
 •个人分支的 GIT 统计报告
 ![此处输入图片的描述][1]
