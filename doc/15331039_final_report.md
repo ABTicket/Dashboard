@@ -3,6 +3,23 @@
 ## 简短的课程学习自我总结（400字以内）
    通过这次课程的项目设计，学习到了一个团队如何有效、规整的开发一个项目。从首先的团队确定，角色分配、个人分工，到开发过程中的会议讨论，建模等等，以及最后的实现、测试。在这个过程中自己学习到了建模的方法如用例建模、状态建模等等，因为个人负责前端的开发，所以学习到了前端开发的框架vue，以及对git使用方法的熟悉。在课程之后还需要对不足进行学习和研究，例如如何使前端和后端有一个良好的衔接，以及数据库和相关api的设计，项目的架构等等还实现不足的地方继续学习。感谢czl和abdnbj一起共同进行前端开发和学习。
 ## PSP2.1统计表
+ |PSP 2.1|Time Spent(h)|
+|-------|-------|
+|**Planning**|1|
+| - Estimate | 5 |
+|**Development**|90|
+| - analysis| 10 |
+| - Design Spec| 15 |
+| - Design Review| 5 |
+| - Coding Standard| 5 |
+| - Design| 10 |
+| - Coding| 30 |
+| - Code review| 5 |
+| - Test| 5 |
+|**Reporting**|10|
+| - Test Report| 5 |
+| - Size Measurement| 2 |
+| - Postmortem & Process Improvement Plan| 3 |
 
 ## 个人分支的 GIT 统计报告（不需要解释原因）- 仅需要提交截图
 ![此处输入图片的描述][1]
